@@ -52,6 +52,17 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				player: {
+					background: 'hsl(var(--player-background))',
+					surface: 'hsl(var(--player-surface))'
+				},
+				progress: {
+					bg: 'hsl(var(--progress-bg))'
+				},
+				lyrics: {
+					inactive: 'hsl(var(--lyrics-inactive))',
+					active: 'hsl(var(--lyrics-active))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
