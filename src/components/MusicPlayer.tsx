@@ -26,7 +26,7 @@ const songs: Song[] = [
     title: 'Alida',
     artist: 'ibroTN19',
     albumArt: demoAlbum,
-    audioSrc: 'audio/1-Alida.mp3',
+    audioSrc: '/audio/1-Alida.mp3',
     lyrics: [
       { timestamp: 0, text: 'Soft as the hush when the moon says goodbye' },
       { timestamp: 4, text: 'You fade into light without needing to try' },
@@ -53,7 +53,7 @@ const songs: Song[] = [
     title: 'Under the Same Moon',
     artist: 'ibroTN19',
     albumArt: demoAlbum,
-    audioSrc: 'audio/2-under-the-same-moon.mp3',
+    audioSrc: '/audio/2-under-the-same-moon.mp3',
     lyrics: [
       { timestamp: 0, text: 'Seventeen candles, the sky feels wide' },
       { timestamp: 4, text: 'You\'re in Tashkent, I\'m oceans aside' },
@@ -71,7 +71,7 @@ const songs: Song[] = [
     title: 'Are you happy?',
     artist: 'ibroTN19',
     albumArt: demoAlbum,
-    audioSrc: 'audio/3-Are you happy?.mp3',
+    audioSrc: '/audio/3-Are you happy?.mp3',
     lyrics: [
       { timestamp: 0, text: 'Seventeen candles in the dark,' },
       { timestamp: 4, text: 'Your light still reaches me, Moonchild.' },
@@ -84,7 +84,7 @@ const songs: Song[] = [
     title: 'Midnight in Tashkent',
     artist: 'ibroTN19',
     albumArt: demoAlbum,
-    audioSrc: 'audio/4-Midnight in Tashkant .mp3',
+    audioSrc: '/audio/4-Midnight in Tashkant .mp3',
     lyrics: [
       { timestamp: 0, text: 'Midnight in Tashkent, the stars align' },
       { timestamp: 4, text: 'Your shadow dances with mine' },
@@ -97,7 +97,7 @@ const songs: Song[] = [
     title: 'Fashionably Late',
     artist: 'ibroTN19',
     albumArt: demoAlbum,
-    audioSrc: 'audio/5-Fashionably late .mp3',
+    audioSrc: '/audio/5-Fashionably late .mp3',
     lyrics: [
       { timestamp: 0, text: 'Always arriving fashionably late' },
       { timestamp: 4, text: 'But your timing is worth the wait' },
@@ -110,7 +110,7 @@ const songs: Song[] = [
     title: 'Alida, You\'re My Moon!',
     artist: 'ibroTN19',
     albumArt: demoAlbum,
-    audioSrc: 'audio/6-Alida, You\'re My Moon!.mp3',
+    audioSrc: '/audio/6-Alida, You\'re My Moon!.mp3',
     lyrics: [
       { timestamp: 0, text: 'Alida, you\'re my moon in the darkest night' },
       { timestamp: 4, text: 'Guiding me with your gentle light' },
@@ -123,7 +123,7 @@ const songs: Song[] = [
     title: 'Uzbek Girl',
     artist: 'ibroTN19',
     albumArt: demoAlbum,
-    audioSrc: 'audio/7-Uzbek Girl .mp3',
+    audioSrc: '/audio/7-Uzbek Girl .mp3',
     lyrics: [
       { timestamp: 0, text: 'Beautiful Uzbek girl with eyes so bright' },
       { timestamp: 4, text: 'You illuminate my world with your light' },
@@ -136,7 +136,7 @@ const songs: Song[] = [
     title: 'Cat Eyes, Galaxy Mind',
     artist: 'ibroTN19',
     albumArt: demoAlbum,
-    audioSrc: 'audio/8-Cat Eyes, Galaxy Mind.mp3',
+    audioSrc: '/audio/8-Cat Eyes, Galaxy Mind.mp3',
     lyrics: [
       { timestamp: 0, text: 'Cat eyes that see through my soul' },
       { timestamp: 4, text: 'Galaxy mind that makes me whole' },
@@ -149,7 +149,7 @@ const songs: Song[] = [
     title: 'Sakura and Snow',
     artist: 'ibroTN19',
     albumArt: demoAlbum,
-    audioSrc: 'audio/9-Sakura and Snow.mp3',
+    audioSrc: '/audio/9-Sakura and Snow.mp3',
     lyrics: [
       { timestamp: 0, text: 'Sakura petals falling like snow' },
       { timestamp: 4, text: 'Reminding me of you, wherever I go' },
@@ -162,7 +162,7 @@ const songs: Song[] = [
     title: 'Taehyung\'s Shadow',
     artist: 'ibroTN19',
     albumArt: demoAlbum,
-    audioSrc: 'audio/10-Taehyung\'s Shadow .mp3',
+    audioSrc: '/audio/10-Taehyung\'s Shadow .mp3',
     lyrics: [
       { timestamp: 0, text: 'In Taehyung\'s shadow I see your face' },
       { timestamp: 4, text: 'A melody that time cannot erase' },
@@ -175,7 +175,7 @@ const songs: Song[] = [
     title: 'Subtitle Love',
     artist: 'ibroTN19',
     albumArt: demoAlbum,
-    audioSrc: 'audio/11-Subtitle Love .mp3',
+    audioSrc: '/audio/11-Subtitle Love .mp3',
     lyrics: [
       { timestamp: 0, text: 'Reading subtitles of your heart' },
       { timestamp: 4, text: 'Every word a work of art' },
@@ -188,7 +188,7 @@ const songs: Song[] = [
     title: 'Bias & Beat',
     artist: 'ibroTN19',
     albumArt: demoAlbum,
-    audioSrc: 'audio/12-Bias & Beat.mp3',
+    audioSrc: '/audio/12-Bias & Beat.mp3',
     lyrics: [
       { timestamp: 0, text: 'You\'re my bias in this game of hearts' },
       { timestamp: 4, text: 'To your rhythm my soul departs' },
@@ -201,7 +201,7 @@ const songs: Song[] = [
     title: 'Didn\'t Get It',
     artist: 'ibroTN19',
     albumArt: demoAlbum,
-    audioSrc: 'audio/13-Didn\'t Get It.mp3',
+    audioSrc: '/audio/13-Didn\'t Get It.mp3',
     lyrics: [
       { timestamp: 0, text: 'I didn\'t get it at first sight' },
       { timestamp: 4, text: 'How you could make everything right' },
@@ -214,7 +214,7 @@ const songs: Song[] = [
     title: 'Eclipse',
     artist: 'ibroTN19',
     albumArt: demoAlbum,
-    audioSrc: 'audio/14-Eclipse.mp3',
+    audioSrc: '/audio/14-Eclipse.mp3',
     lyrics: [
       { timestamp: 0, text: 'Like an eclipse you block my sun' },
       { timestamp: 4, text: 'But in darkness, you\'re the one' },
@@ -227,7 +227,7 @@ const songs: Song[] = [
     title: 'If We Ever Met',
     artist: 'ibroTN19',
     albumArt: demoAlbum,
-    audioSrc: 'audio/15-If We Ever Met.mp3',
+    audioSrc: '/audio/15-If We Ever Met.mp3',
     lyrics: [
       { timestamp: 0, text: 'If we ever met beneath the stars' },
       { timestamp: 4, text: 'Would you recognize these scars?' },
@@ -240,7 +240,7 @@ const songs: Song[] = [
     title: 'Static between us',
     artist: 'ibroTN19',
     albumArt: demoAlbum,
-    audioSrc: 'audio/16-Static between us.mp3',
+    audioSrc: '/audio/16-Static between us.mp3',
     lyrics: [
       { timestamp: 0, text: 'Static between us, but I hear you clear' },
       { timestamp: 4, text: 'Every whisper reaches my ear' },
@@ -253,7 +253,7 @@ const songs: Song[] = [
     title: 'Love & Mine',
     artist: 'ibroTN19',
     albumArt: demoAlbum,
-    audioSrc: 'audio/17-Love & Mine.mp3',
+    audioSrc: '/audio/17-Love & Mine.mp3',
     lyrics: [
       { timestamp: 0, text: 'Love is yours and love is mine' },
       { timestamp: 4, text: 'In this moment, stars align' },
