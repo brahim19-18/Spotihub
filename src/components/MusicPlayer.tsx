@@ -78,6 +78,188 @@ const songs: Song[] = [
       { timestamp: 8, text: 'Tashkent nights, so far apart,' },
       { timestamp: 12, text: 'But your glow lingers in my sky...' }
     ]
+  },
+  {
+    id: 'midnight-in-tashkent',
+    title: 'Midnight in Tashkent',
+    artist: 'ibroTN19',
+    albumArt: demoAlbum,
+    audioSrc: 'audio/4-Midnight in Tashkant .mp3',
+    lyrics: [
+      { timestamp: 0, text: 'Midnight in Tashkent, the stars align' },
+      { timestamp: 4, text: 'Your shadow dances with mine' },
+      { timestamp: 8, text: 'In the silence between heartbeats' },
+      { timestamp: 12, text: 'I find you in my dreams...' }
+    ]
+  },
+  {
+    id: 'fashionably-late',
+    title: 'Fashionably Late',
+    artist: 'ibroTN19',
+    albumArt: demoAlbum,
+    audioSrc: 'audio/5-Fashionably late .mp3',
+    lyrics: [
+      { timestamp: 0, text: 'Always arriving fashionably late' },
+      { timestamp: 4, text: 'But your timing is worth the wait' },
+      { timestamp: 8, text: 'Every moment with you' },
+      { timestamp: 12, text: 'Makes the world feel new...' }
+    ]
+  },
+  {
+    id: 'alida-youre-my-moon',
+    title: 'Alida, You\'re My Moon!',
+    artist: 'ibroTN19',
+    albumArt: demoAlbum,
+    audioSrc: 'audio/6-Alida, You\'re My Moon!.mp3',
+    lyrics: [
+      { timestamp: 0, text: 'Alida, you\'re my moon in the darkest night' },
+      { timestamp: 4, text: 'Guiding me with your gentle light' },
+      { timestamp: 8, text: 'Through the phases of my heart' },
+      { timestamp: 12, text: 'You\'ve been there from the start...' }
+    ]
+  },
+  {
+    id: 'uzbek-girl',
+    title: 'Uzbek Girl',
+    artist: 'ibroTN19',
+    albumArt: demoAlbum,
+    audioSrc: 'audio/7-Uzbek Girl .mp3',
+    lyrics: [
+      { timestamp: 0, text: 'Beautiful Uzbek girl with eyes so bright' },
+      { timestamp: 4, text: 'You illuminate my world with your light' },
+      { timestamp: 8, text: 'From Tashkent streets to my heart' },
+      { timestamp: 12, text: 'You\'ve captured every part...' }
+    ]
+  },
+  {
+    id: 'cat-eyes-galaxy-mind',
+    title: 'Cat Eyes, Galaxy Mind',
+    artist: 'ibroTN19',
+    albumArt: demoAlbum,
+    audioSrc: 'audio/8-Cat Eyes, Galaxy Mind.mp3',
+    lyrics: [
+      { timestamp: 0, text: 'Cat eyes that see through my soul' },
+      { timestamp: 4, text: 'Galaxy mind that makes me whole' },
+      { timestamp: 8, text: 'In your universe I\'m lost' },
+      { timestamp: 12, text: 'No price too high, no bridge to cross...' }
+    ]
+  },
+  {
+    id: 'sakura-and-snow',
+    title: 'Sakura and Snow',
+    artist: 'ibroTN19',
+    albumArt: demoAlbum,
+    audioSrc: 'audio/9-Sakura and Snow.mp3',
+    lyrics: [
+      { timestamp: 0, text: 'Sakura petals falling like snow' },
+      { timestamp: 4, text: 'Reminding me of you, wherever I go' },
+      { timestamp: 8, text: 'Spring meets winter in your smile' },
+      { timestamp: 12, text: 'Making every moment worthwhile...' }
+    ]
+  },
+  {
+    id: 'taehyungs-shadow',
+    title: 'Taehyung\'s Shadow',
+    artist: 'ibroTN19',
+    albumArt: demoAlbum,
+    audioSrc: 'audio/10-Taehyung\'s Shadow .mp3',
+    lyrics: [
+      { timestamp: 0, text: 'In Taehyung\'s shadow I see your face' },
+      { timestamp: 4, text: 'A melody that time cannot erase' },
+      { timestamp: 8, text: 'Korean dreams and distant shores' },
+      { timestamp: 12, text: 'My heart forever yours...' }
+    ]
+  },
+  {
+    id: 'subtitle-love',
+    title: 'Subtitle Love',
+    artist: 'ibroTN19',
+    albumArt: demoAlbum,
+    audioSrc: 'audio/11-Subtitle Love .mp3',
+    lyrics: [
+      { timestamp: 0, text: 'Reading subtitles of your heart' },
+      { timestamp: 4, text: 'Every word a work of art' },
+      { timestamp: 8, text: 'Languages we don\'t need to speak' },
+      { timestamp: 12, text: 'Love is all we need to seek...' }
+    ]
+  },
+  {
+    id: 'bias-and-beat',
+    title: 'Bias & Beat',
+    artist: 'ibroTN19',
+    albumArt: demoAlbum,
+    audioSrc: 'audio/12-Bias & Beat.mp3',
+    lyrics: [
+      { timestamp: 0, text: 'You\'re my bias in this game of hearts' },
+      { timestamp: 4, text: 'To your rhythm my soul departs' },
+      { timestamp: 8, text: 'Every beat syncs with my mind' },
+      { timestamp: 12, text: 'In your melody, peace I find...' }
+    ]
+  },
+  {
+    id: 'didnt-get-it',
+    title: 'Didn\'t Get It',
+    artist: 'ibroTN19',
+    albumArt: demoAlbum,
+    audioSrc: 'audio/13-Didn\'t Get It.mp3',
+    lyrics: [
+      { timestamp: 0, text: 'I didn\'t get it at first sight' },
+      { timestamp: 4, text: 'How you could make everything right' },
+      { timestamp: 8, text: 'But now I see so clearly' },
+      { timestamp: 12, text: 'You\'re everything to me, sincerely...' }
+    ]
+  },
+  {
+    id: 'eclipse',
+    title: 'Eclipse',
+    artist: 'ibroTN19',
+    albumArt: demoAlbum,
+    audioSrc: 'audio/14-Eclipse.mp3',
+    lyrics: [
+      { timestamp: 0, text: 'Like an eclipse you block my sun' },
+      { timestamp: 4, text: 'But in darkness, you\'re the one' },
+      { timestamp: 8, text: 'Who shows me stars I\'ve never seen' },
+      { timestamp: 12, text: 'In your shadow, I find my dream...' }
+    ]
+  },
+  {
+    id: 'if-we-ever-met',
+    title: 'If We Ever Met',
+    artist: 'ibroTN19',
+    albumArt: demoAlbum,
+    audioSrc: 'audio/15-If We Ever Met.mp3',
+    lyrics: [
+      { timestamp: 0, text: 'If we ever met beneath the stars' },
+      { timestamp: 4, text: 'Would you recognize these scars?' },
+      { timestamp: 8, text: 'Of a heart that beats for you alone' },
+      { timestamp: 12, text: 'In a world where love has grown...' }
+    ]
+  },
+  {
+    id: 'static-between-us',
+    title: 'Static between us',
+    artist: 'ibroTN19',
+    albumArt: demoAlbum,
+    audioSrc: 'audio/16-Static between us.mp3',
+    lyrics: [
+      { timestamp: 0, text: 'Static between us, but I hear you clear' },
+      { timestamp: 4, text: 'Every whisper reaches my ear' },
+      { timestamp: 8, text: 'Through the noise and through the pain' },
+      { timestamp: 12, text: 'Your voice keeps me sane...' }
+    ]
+  },
+  {
+    id: 'love-and-mine',
+    title: 'Love & Mine',
+    artist: 'ibroTN19',
+    albumArt: demoAlbum,
+    audioSrc: 'audio/17-Love & Mine.mp3',
+    lyrics: [
+      { timestamp: 0, text: 'Love is yours and love is mine' },
+      { timestamp: 4, text: 'In this moment, stars align' },
+      { timestamp: 8, text: 'What we have transcends all time' },
+      { timestamp: 12, text: 'In your heart, I find my rhyme...' }
+    ]
   }
 ];
 
